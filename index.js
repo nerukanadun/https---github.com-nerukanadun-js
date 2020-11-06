@@ -1,4 +1,4 @@
 //node index.js <- terminal run.
 let x = 10;
-let y = 5;
+let ys = 5;
 console.log(x);
